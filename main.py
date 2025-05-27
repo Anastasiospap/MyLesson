@@ -6,3 +6,6 @@ y=4
 x=5
 athroisma = x + y
 print(str(athroisma))
+
+
+print("geia sou kosma")
